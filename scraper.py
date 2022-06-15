@@ -1,5 +1,5 @@
 import os
-os.environ['GH_TOKEN'] = "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"
+os.environ['GH_TOKEN'] = "<fill with your token here>"
 import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
