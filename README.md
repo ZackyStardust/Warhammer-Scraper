@@ -18,7 +18,7 @@
 
 > _A simple scraper using Python and Selenium with the main purpose of searching for Warhammer boxes and miniatures prices in a few Portuguese stores._
 
-The project started while I had COVID back in June/2022. Although it was made with the intent of Warhammer miniatures, it could be used for any kind of product that could be found in those stores - card games, boardgames, hobby equipment, etc. Up to the time of this update, it is _incomplete_ due to the lack of time for more focused research. Right now, I have a tiring full time job and study at 42, so my tiredness is getting the best of me.
+The project started while I had COVID back in June/2022, when I wanted to learn Python. Selenium was not in my mind when I started, but since it seemed to be the simplest way to do what I wanted, I went on with it. Although it was made with the intent of Warhammer miniatures, it could be used for any kind of product that could be found in those stores - card games, boardgames, hobby equipment, etc. Up to the time of this update, it is _incomplete_ due to the lack of time for more focused research. Right now, I have a tiring full time job and study at 42, so my tiredness is getting the best of me.
 
 ## 📈 Future Plans
 
